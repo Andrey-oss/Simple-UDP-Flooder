@@ -45,11 +45,6 @@ print <<EOTEXT;
                     nP"     "*MMnx 
 
 
-
-Creator - t.me/Andreyoss
-Chat - t.me/hak_team
-Channel - t.me/termuxhub
-
 EOTEXT
 
 print "~DDoSing~ $ip " . ($port ? $port : "on random ports") . " 
